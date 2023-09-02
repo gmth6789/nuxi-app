@@ -10,8 +10,6 @@
 </div>
 
 <Tabsbar />
-
-
  </div>
 </div>
 </template>
