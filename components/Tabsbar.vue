@@ -22,11 +22,20 @@
 							</div>
 						</button>
 
+          <button class="diygw-action">
+							<div class="diygw-grid-inner">
+								<div class="diygw-grid-icon diygw-avatar" style="font-size: calc(35px - 12px); width: 35px; height: 35px">
+									<img mode="aspectFit" class="diygw-avatar-img" src="img/grid3.png" />
+								</div>
+								<div class="diygw-grid-title">อันดับ</div>
+							</div>
+						</button>
+
 
 						<button class="diygw-action">
 							<div class="diygw-grid-inner">
 								<div class="diygw-grid-icon diygw-avatar" style="font-size: calc(35px - 12px); width: 35px; height: 35px">
-									<img mode="aspectFit" class="diygw-avatar-img" src="img/grid3.png" />
+									<img mode="aspectFit" class="diygw-avatar-img" src="img/grid5.png" />
 								</div>
 								<div class="diygw-grid-title">แชท</div>
 							</div>
